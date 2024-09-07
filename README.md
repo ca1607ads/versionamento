@@ -1,6 +1,6 @@
 ## Atividade sobre controle versões; 05/09/24
 
-## aluno: Caio Eduardo Da Silva Andrade.
+aluno: Caio Eduardo Da Silva Andrade.
 
 De início é válido analisar o que remete o conceito de sistema de controle de versões. Um sistema de versões,ou controle de versão, é um mecanismo essencial pra desenvolver softwares(e também em outras áreas que envolvem a criação e edição de arquivos) que permite rastrear e administrar as mudanças feitas em arquivos ao longo do tempo de projeto. De maneira prática o sistema de controle de versões corrige um erro ou reescreve uma seção do projeto, registra uma atualização e cria uma "nova versão" do projeto.
 Quando se entra em questão as vantagens do sistema de controle de versões, é importante citar algumas, sendo elas:
